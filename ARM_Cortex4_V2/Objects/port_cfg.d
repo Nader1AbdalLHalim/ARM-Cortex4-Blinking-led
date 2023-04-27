@@ -1,0 +1,9 @@
+.\objects\port_cfg.o: ARM_DRIVERS\CONFIG1\Port_Cfg.c
+.\objects\port_cfg.o: .\ARM_DRIVERS\COMMON1\Std_Types.h
+.\objects\port_cfg.o: .\ARM_DRIVERS\COMMON1\Platform_Types.h
+.\objects\port_cfg.o: .\ARM_DRIVERS\COMMON1\Compiler.h
+.\objects\port_cfg.o: .\ARM_DRIVERS\COMMON1\CommonMacros.h
+.\objects\port_cfg.o: .\ARM_DRIVERS\COMMON1\Mcu_Hw.h
+.\objects\port_cfg.o: .\ARM_DRIVERS\COMMON1\Std_Types.h
+.\objects\port_cfg.o: .\ARM_DRIVERS\CONFIG1\CONFIG_inc\Port_Cfg.h
+.\objects\port_cfg.o: .\ARM_DRIVERS\MCAL\MCAL_inc\Port_Types.h

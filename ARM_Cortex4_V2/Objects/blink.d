@@ -1,0 +1,17 @@
+.\objects\blink.o: ARM_DRIVERS\ProjectFiles\Blink.c
+.\objects\blink.o: .\ARM_DRIVERS\ProjectFiles\ProjectFiles_inc\Blink.h
+.\objects\blink.o: .\ARM_DRIVERS\COMMON1\Std_Types.h
+.\objects\blink.o: .\ARM_DRIVERS\COMMON1\Platform_Types.h
+.\objects\blink.o: .\ARM_DRIVERS\COMMON1\Compiler.h
+.\objects\blink.o: .\ARM_DRIVERS\COMMON1\CommonMacros.h
+.\objects\blink.o: .\ARM_DRIVERS\COMMON1\Mcu_Hw.h
+.\objects\blink.o: .\ARM_DRIVERS\COMMON1\Std_Types.h
+.\objects\blink.o: .\ARM_DRIVERS\HAL\HAL_inc\Led.h
+.\objects\blink.o: .\ARM_DRIVERS\MCAL\MCAL_inc\Dio.h
+.\objects\blink.o: .\ARM_DRIVERS\MCAL\MCAL_inc\Dio_Types.h
+.\objects\blink.o: .\ARM_DRIVERS\MCAL\MCAL_inc\Port_Types.h
+.\objects\blink.o: .\ARM_DRIVERS\CONFIG1\CONFIG_inc\Dio_Cfg.h
+.\objects\blink.o: .\ARM_DRIVERS\MCAL\MCAL_inc\Port_Registers.h
+.\objects\blink.o: .\ARM_DRIVERS\MCAL\MCAL_inc\SysTick.h
+.\objects\blink.o: .\ARM_DRIVERS\MCAL\MCAL_inc\SysTick_Types.h
+.\objects\blink.o: .\ARM_DRIVERS\CONFIG1\CONFIG_inc\SysTick_Cfg.h

@@ -1,0 +1,10 @@
+.\objects\systick_cfg.o: ARM_DRIVERS\CONFIG1\SysTick_Cfg.c
+.\objects\systick_cfg.o: .\ARM_DRIVERS\COMMON1\Std_Types.h
+.\objects\systick_cfg.o: .\ARM_DRIVERS\COMMON1\Platform_Types.h
+.\objects\systick_cfg.o: .\ARM_DRIVERS\COMMON1\Compiler.h
+.\objects\systick_cfg.o: .\ARM_DRIVERS\COMMON1\CommonMacros.h
+.\objects\systick_cfg.o: .\ARM_DRIVERS\COMMON1\Mcu_Hw.h
+.\objects\systick_cfg.o: .\ARM_DRIVERS\COMMON1\Std_Types.h
+.\objects\systick_cfg.o: .\ARM_DRIVERS\MCAL\MCAL_inc\SysTick.h
+.\objects\systick_cfg.o: .\ARM_DRIVERS\MCAL\MCAL_inc\SysTick_Types.h
+.\objects\systick_cfg.o: .\ARM_DRIVERS\CONFIG1\CONFIG_inc\SysTick_Cfg.h

@@ -1,0 +1,9 @@
+.\objects\intctrl_cfg.o: ARM_DRIVERS\CONFIG1\IntCtrl_Cfg.c
+.\objects\intctrl_cfg.o: .\ARM_DRIVERS\COMMON1\Std_Types.h
+.\objects\intctrl_cfg.o: .\ARM_DRIVERS\COMMON1\Platform_Types.h
+.\objects\intctrl_cfg.o: .\ARM_DRIVERS\COMMON1\Compiler.h
+.\objects\intctrl_cfg.o: .\ARM_DRIVERS\COMMON1\CommonMacros.h
+.\objects\intctrl_cfg.o: .\ARM_DRIVERS\COMMON1\Mcu_Hw.h
+.\objects\intctrl_cfg.o: .\ARM_DRIVERS\COMMON1\Std_Types.h
+.\objects\intctrl_cfg.o: .\ARM_DRIVERS\CONFIG1\CONFIG_inc\IntCtrl_Cfg.h
+.\objects\intctrl_cfg.o: .\ARM_DRIVERS\MCAL\MCAL_inc\IntCtrl_Types.h

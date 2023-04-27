@@ -1,0 +1,11 @@
+.\objects\port.o: ARM_DRIVERS\MCAL\Port.c
+.\objects\port.o: .\ARM_DRIVERS\MCAL\MCAL_inc\Port.h
+.\objects\port.o: .\ARM_DRIVERS\COMMON1\Std_Types.h
+.\objects\port.o: .\ARM_DRIVERS\COMMON1\Platform_Types.h
+.\objects\port.o: .\ARM_DRIVERS\COMMON1\Compiler.h
+.\objects\port.o: .\ARM_DRIVERS\COMMON1\CommonMacros.h
+.\objects\port.o: .\ARM_DRIVERS\COMMON1\Mcu_Hw.h
+.\objects\port.o: .\ARM_DRIVERS\COMMON1\Std_Types.h
+.\objects\port.o: .\ARM_DRIVERS\MCAL\MCAL_inc\Port_Types.h
+.\objects\port.o: .\ARM_DRIVERS\CONFIG1\CONFIG_inc\Port_Cfg.h
+.\objects\port.o: .\ARM_DRIVERS\MCAL\MCAL_inc\Port_Registers.h
